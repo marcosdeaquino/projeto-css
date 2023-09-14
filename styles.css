@@ -1,0 +1,95 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  margin: 44px 0 144px 76px;
+  align-content: 10;
+ 
+}
+
+
+.link-header {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #989090;
+  cursor: pointer;
+  margin-right: 23px;
+  margin-top: 50px;
+  align-self: 40px;
+}
+
+.button-header {
+  background: #665AE1;
+  border-radius: 20px;
+  width: 130px;
+  height: 41px;
+  border: none;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.logo-image {
+  width: 560px;
+  height: 400px;
+  margin-left: 20px;
+  margin-top: 200px;
+  font-display: inline-block;
+
+}
+
+div {
+  display: inline-block;
+  margin-left: 900px;
+  margin-top: 0.1px;
+  text-align: 50px;
+ 
+ 
+}
+
+h1 {
+  font-weight: 920;
+  font-size: 100px;
+  line-height: 120px;
+  color: #515151;
+  text-align: left;
+ 
+}
+
+h2 {
+  font-weight: 540;
+  font-size: 51px;
+  line-height: 71px;
+  color: #515151;
+}
+
+p {
+  font-weight: 200px;
+  font-size: 24px;
+  line-height: 29px;
+  color: #848484;
+  width: 300px;
+
+
+}
+
+.button-main {
+  background: yellow;
+  border-radius: 30.5px;
+  width: 239px;
+  height: 64px;
+  border: none;
+  cursor: pointer;
+  filter: drop-shadow(0px 4px 4px);
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  color: #101010;
+  margin-top: 40px;
+}
